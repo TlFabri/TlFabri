@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm Thiago Fabri, Brazilian future software engineer</h6>
+<h6 align="left">I'm Thiago Fabri, Brazilian.
 
 ###
 
@@ -11,7 +11,8 @@
 ###
 
 <h6 align="left">
-  
+
+  - 📚 I am studying Systems Analysis and Development.  
   - 🏡 I love being with my family and friends, they are everything to me.<br>	
   - ✈️ I love to travel and get to know new places and cultures.<br>	
   - 👨‍🎓 &nbsp;<samp>My academic life [__here!__](https://github.com/TlFabri/certificados)</samp> </h6>
