@@ -1,4 +1,4 @@
-<h2 align="left">Hello Word! <img src = "https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/earth.gif" width="22px" height="22px">
+<h2 align="left">Hello Word! <img src = "https://github.com/TlFabri/TlFabri/blob/main/gifs/earth.gif" width="22px" height="22px">
 
 ###
 
