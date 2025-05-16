@@ -1,49 +1,41 @@
-<h2 align="left">Hello Word! <img src = "https://github.com/TlFabri/TlFabri/blob/main/Readme-gif/earth.gif" width="22px" height="22px">
+<h2 align="left">Hello World! 🌍</h2>
 
-###
+<p align="left">
+  I'm <strong>Thiago Fabri</strong>, a Brazilian aspiring Software Engineer focused on continuous learning and building impactful tech.  
+</p>
 
-<h6 align="left">I'm Thiago Fabri, Brazilian future software engineer</h6>
+---
 
-###
+### 👨‍💻 About Me
 
-<h3 align="left">About Me🙃</h3>
+- 🏡 I love spending time with my family and friends — they are everything to me.  
+- ✈️ Passionate about traveling and exploring new cultures.  
+- 📚 My academic journey → [Check here](https://github.com/TlFabri/certificados)
 
-###
+---
 
-<h6 align="left">
-  
-  - 🏡 I love being with my family and friends, they are everything to me.<br>	
-  - ✈️ I love to travel and get to know new places and cultures.<br>	
-  - 👨‍🎓 &nbsp;<samp>My academic life [__here!__](https://github.com/TlFabri/certificados)</samp> </h6>
+### 🚀 Tech Stack
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+</p>
 
-<div align="">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
+---
 
-###
+### 📊 GitHub Stats
 
-<h3 align="left">My Techs</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TlFabri&show_icons=true&count_private=true&theme=apprentice" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TlFabri&layout=compact&langs_count=6&theme=apprentice" height="150" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-</div>
+### 🔗 Connect with me
 
-###
-
-<h3 align="left">My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TlFabri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TlFabri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/seu-link" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
+  <a href="https://instagram.com/seu-insta" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" /></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" /></a>
+  <a href="https://discordapp.com/users/seu-id"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" /></a>
+</p>
